@@ -1,0 +1,56 @@
+date,title,event_type,valence,month,year
+2021-01-06,HHS announces $22B in COVID testing and vaccination funding to states,funding,1,2021-01,2021
+2021-01-12,CDC recommends COVID-19 vaccination for adults 65+ and frontline workers,guidance,1,2021-01,2021
+2021-01-21,"CDC updates quarantine guidance, supports mask mandates under new administration",guidance,1,2021-01,2021
+2021-02-05,CDC releases first month vaccination demographic data: Dec 14 – Jan 14,data_release,0,2021-02,2021
+2021-02-28,CDC Director signs ACIP recommendation for J&J vaccine use in adults 18+,approval,1,2021-02,2021
+2021-03-08,CDC issues first guidance: fully vaccinated people can gather indoors unmasked,guidance,1,2021-03,2021
+2021-03-17,CDC announces $2.25B to address COVID health disparities in underserved communities,funding,1,2021-03,2021
+2021-03-19,CDC and FDA lift clinical hold on J&J vaccine trials,approval,1,2021-03,2021
+2021-04-06,CDC awards $3B to expand COVID vaccine programs and equity access,funding,1,2021-04,2021
+2021-04-13,CDC and FDA recommend pause on J&J vaccine due to rare blood clot cases,warning,-1,2021-04,2021
+2021-04-19,All US adults now eligible for COVID-19 vaccination,guidance,1,2021-04,2021
+2021-04-23,CDC and FDA lift J&J pause after review; ACIP adds warning label,approval,0,2021-04,2021
+2021-05-12,CDC recommends Pfizer vaccine for adolescents 12–15 years old,approval,1,2021-05,2021
+2021-05-13,CDC updates mask guidance: fully vaccinated people no longer need masks indoors,guidance,1,2021-05,2021
+2021-05-28,"CDC reports 10,262 vaccine breakthrough infections as of April 30",data_release,-1,2021-05,2021
+2021-06-25,CDC reports 57% of US adults have received at least one dose as of May 22,data_release,1,2021-06,2021
+2021-07-27,CDC reverses mask guidance: vaccinated people should mask indoors in high-transmission areas,guidance,-1,2021-07,2021
+2021-07-30,CDC Director Walensky statement on Delta variant threat and renewed mask recommendations,statement,-1,2021-07,2021
+2021-08-06,CDC study: vaccination offers higher protection than prior COVID infection,data_release,1,2021-08,2021
+2021-08-12,FDA authorizes additional dose for immunocompromised individuals,approval,1,2021-08,2021
+2021-08-13,CDC reports vaccines 95% effective at preventing hospitalization in adults 65+,data_release,1,2021-08,2021
+2021-08-23,FDA grants full approval to Pfizer-BioNTech vaccine (Comirnaty),approval,1,2021-08,2021
+2021-09-17,CDC reports Delta variant effectiveness data: vaccines still protective vs hospitalization,data_release,0,2021-09,2021
+2021-09-22,"FDA authorizes Pfizer booster dose for 65+, high-risk adults, and high-exposure workers",approval,1,2021-09,2021
+2021-09-24,ACIP recommends Pfizer booster; CDC Director endorses including frontline workers,guidance,1,2021-09,2021
+2021-10-01,CDC safety monitoring report: no unexpected adverse reactions to additional vaccine doses,data_release,1,2021-10,2021
+2021-10-20,CDC recommends J&J and Moderna boosters; allows mix-and-match boosters,guidance,1,2021-10,2021
+2021-10-29,CDC recommends Pfizer vaccine for children 5–11 years old,approval,1,2021-10,2021
+2021-11-05,ACIP interim recommendations for additional primary and booster doses,guidance,1,2021-11,2021
+2021-11-19,CDC recommends COVID-19 boosters for all adults 18+,guidance,1,2021-11,2021
+2021-11-26,CDC monitoring Omicron variant (B.1.1.529) first detected in South Africa,warning,-1,2021-11,2021
+2021-11-29,CDC confirms first US Omicron case detected in California,warning,-1,2021-11,2021
+2021-12-09,CDC strengthens booster recommendation: all adults should get boosted,guidance,1,2021-12,2021
+2021-12-16,CDC data: booster doses 90% effective against Omicron hospitalization,data_release,1,2021-12,2021
+2021-12-27,CDC shortens isolation period from 10 to 5 days for asymptomatic COVID cases,guidance,0,2021-12,2021
+2022-01-07,CDC reports Omicron accounts for 95%+ of US COVID cases,data_release,-1,2022-01,2022
+2022-01-21,CDC updates isolation and quarantine guidance amid Omicron surge,guidance,0,2022-01,2022
+2022-02-11,CDC updates mask guidance: most Americans can remove masks as Omicron recedes,guidance,1,2022-02,2022
+2022-02-25,CDC releases community COVID-19 levels framework replacing case-count thresholds,guidance,0,2022-02,2022
+2022-03-15,FDA authorizes second booster for immunocompromised adults,approval,1,2022-03,2022
+2022-03-29,CDC reports vaccine effectiveness against Omicron hospitalization: 90% with booster,data_release,1,2022-03,2022
+2022-04-01,FDA and CDC recommend pause on J&J vaccine; other vaccines preferred,warning,-1,2022-04,2022
+2022-04-19,FDA authorizes second booster dose for adults 50+ and immunocompromised,approval,1,2022-04,2022
+2022-05-17,CDC recommends Pfizer vaccine for children under 5 pending FDA review,guidance,1,2022-05,2022
+2022-05-19,CDC reports COVID-19 no longer at emergency phase but remains a public health concern,statement,0,2022-05,2022
+2022-06-17,CDC recommends COVID-19 vaccines for infants and toddlers 6 months – 4 years,approval,1,2022-06,2022
+2022-06-28,CDC reports BA.4 and BA.5 Omicron subvariants now dominant in US,data_release,-1,2022-06,2022
+2022-07-12,CDC updates COVID guidance: focus shifts to hospitalization over case counts,guidance,0,2022-07,2022
+2022-07-22,CDC reports BA.5 accounts for 80% of US COVID cases; boosters remain recommended,data_release,-1,2022-07,2022
+2022-08-11,CDC streamlines COVID-19 guidance: eliminates quarantine for exposed vaccinated people,guidance,1,2022-08,2022
+2022-08-31,FDA authorizes updated bivalent Omicron boosters from Pfizer and Moderna,approval,1,2022-08,2022
+2022-09-01,CDC recommends updated bivalent COVID-19 booster for all eligible Americans,guidance,1,2022-09,2022
+2022-09-15,CDC reports bivalent booster uptake lagging despite broad eligibility,data_release,-1,2022-09,2022
+2022-10-12,CDC reports COVID hospitalization rates declining; bivalent booster 56% effective vs hospitalization,data_release,1,2022-10,2022
+2022-10-20,CDC recommends updated bivalent booster for children 5–11 years old,approval,1,2022-10,2022
